@@ -33,7 +33,7 @@ _Emphasized text_
 
     Markup : ~~Strikethrough text~~
 
-_ Strong text__
+__Strong text__
 
     Markup :_ Strong text__ or **Strong text**
 
@@ -128,6 +128,36 @@ Link to a specific partof the page:
 
 Hotkey:
 
-<kbd>&#8984F</kbd>
-<kbd>09BF</kbd>
+<kbd>⌘F<d>
 
+<kbd>⇧⌘F<d>
+
+    Markup : <kbd>⌘F<d>
+
+Hotkey list:
+
+| Key | Symbol |   
+| --- | --- |    
+| Option | ⌥ |    
+| Control | ⌃ |    
+| Command | ⌘ |    
+| Shift | ⇧ |    
+| Caps Lock | ⇪ |    
+| Tab | ⇥ |    
+| Esc | ⎋ |    
+| Power | Φ |    
+| Return | ↩ |  
+| Delete | ⌫ |
+| Up | ↑ |
+| Down | ↓ |
+| Left | ← |
+| Right | → |
+
+Emoji:
+
+:exclamation: User emoji icons to enhance text. :+1: Look up emoji codes at 
+[emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
+
+    Markup : Code appears between colons :EMOJICODE:
+
+:mask:
